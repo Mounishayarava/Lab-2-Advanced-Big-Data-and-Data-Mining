@@ -40,7 +40,7 @@ The goal is to understand how different parameter values impact classification p
 - Tested values of K: 1, 5, 11, 15, 21
 - Evaluated using accuracy score
 
-**Observations:**
+Observations:
 - Small K → Overfitting
 - Moderate K → Best performance
 - Large K → Slight underfitting
@@ -79,6 +79,4 @@ KNN performed more consistently and was easier to tune.
 RNN offered flexibility but required careful parameter selection.
 
 ## How to Run
-
-```bash
 pip install numpy pandas matplotlib scikit-learn
