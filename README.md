@@ -80,3 +80,5 @@ RNN offered flexibility but required careful parameter selection.
 
 ## How to Run
 pip install numpy pandas matplotlib scikit-learn
+jupyter notebook
+Lab2_KNN_RNN.ipynb
